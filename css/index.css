@@ -1,0 +1,76 @@
+body{
+font-family: Helvetica;
+color: black;
+text-align: center;
+background-color: white;
+}
+
+
+
+h1{
+font-size: 70px;
+font-weight: bold;
+color: white;
+
+}
+
+h2{
+  font-size: 32px;
+  font-weight: bold;
+
+}
+
+h3{
+  font-style: 23px;
+  font-weight: bold;
+
+}
+
+p{
+  font-size: 14px;
+}
+
+
+.navText{
+  font-size: 18px;
+  color: white;
+
+  display: block;
+  padding-top: 10px;
+}
+
+
+
+.header{
+  background-image: url(../media/flatiron.png);
+  background-repeat: no-repeat;
+
+  background-position: center;
+}
+
+.bg{
+  background-image: url(../media/flatiron.png);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+
+  font-size: 23px;
+  font-weight: bold;
+  color: white;
+
+}
+
+.footer{
+  background-color: dimgray;
+  color: white;
+  text-align: left;
+}
+
+.footer span{
+  font-size: 11px;
+  color: white;
+}
+
+.footer a{
+  color: white;
+}
